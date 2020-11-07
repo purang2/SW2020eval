@@ -5,3 +5,10 @@
 
 이 SUMMARY 파일은 [2020 전자공학부 소프트웨어 부전공 장학평가](https://github.com/knuee/sw2020/)를 심사받기 위해 제가 작업해왔던 프로젝트, 수업 등의 산출물을 접근하기 쉽도록 요약해놓은 PAGE입니다. 
 
+
+---
+## 형태별 추가 정보 기재:
+
+### 교과목형
+
+- [COMP312001 운영체제/ 2019년 겨울계절학기/ 배준현(컴퓨터학부)](https://github.com/purang2/OS_QuantumComputing) 
