@@ -22,8 +22,13 @@
      * 프로젝트 주제: SoC(System-on-Chip)을 이용한 LCD화면 기반 핑퐁게임 프로젝트
      * 프로젝트 내용: Xilinx Zynq-7000 SoC 키트와 Vivado SDK Tool을 이용하여 Verilog+ C 기반으로 HW/SW Co-Design을 하는 방법을 수업에서 배웠고 팀 프로젝트에서는 Kit의 주요 네가지 기능 (TFT-LCD, 7-Segment, PushButton 4개, TEXT-LCD)을 모두 사용하는 프로젝트를 구상하였고 임베디드 개발에서 인상깊은 경험이 될 것 같은 마음에 우리 팀은 핑퐁 게임을 만들기로 하였다. 5인치의 TFT-LCD를 통해 게임 화면을 띄워 주었고, 7-Seg에서는 Player 1과 Player 2의 스코어를 8개의 7-seg를 통해 나타내 주었다. 그리고 Push Button을 통해 1P,2P의 핑퐁 패들을 상하로 조정할 수 있도록 하였으며, TEXT-LCD를 통해 각종 게임 모드, 승리 등의 텍스트를 사용자에게 보여주도록 설계하였다. C로 짜여진 SDK 코드는 if문 switch 등의 제어문을 통해 승리 조건 판별, 게임 다시 시작 등의 논리를 수행한다.
 
-- [ITEC416001 고급 웹 프로그래밍 /2020년 1학기/ 류은경(컴퓨터학부)](https://github.com/purang2/ArcadeGame_AdvWebProgramming)
+- [ITEC416001 고급 웹프로그래밍 /2020년 1학기/ 류은경(컴퓨터학부)](https://github.com/purang2/ArcadeGame_AdvWebProgramming)
      
      * 프로젝트 주제: 고전 게임(Arcade) 웹페이지 프로젝트 
      * 프로젝트 내용: 수업 시간에 배운 웹 페이지 Front-end(html,css,Javascript), Back-end(Database,MySQL,JSP Server-Login-out) 프로그래밍 기법들을 배웠고, 이를 통해 팀 프로젝트로 틀린그림찾기,같은그림찾기, 숨은그림찾기, 노노그램을 플레이 할 수 있는 고전게임 사이트를 만들어 보았다.
-      
+
+- [EECS463001 임베디드시스템프로그래밍/ 2020 2학기/ 조정훈](https://github.com/purang2/Embedded_SystemProgramming)
+
+
+      * 수업과제 주제: 리눅스 환경에서 라즈베리 파이 멀티스레드(4 cpu)를 이용한 빠른 행렬 곱셈
+      * 수업과제 내용: 운영체제와 임베디드 시스템 프로그래밍 이론을 배운 것을 바탕으로 라즈베리파이의 CPU 4개를 동시에 돌리도록 하는 멀티스레딩 기법을 통한 병렬적 프로그래밍을 통해 싱글스레딩/멀티스레딩 , 컴퓨터/라즈베리파이의 행렬곱셈 성능(시간) 비교 등을 과제를 통해서 프로그래밍 함.
