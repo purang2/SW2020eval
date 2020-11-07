@@ -24,6 +24,6 @@
 
 - [ITEC416001 고급 웹 프로그래밍 /2020년 1학기/ 류은경(컴퓨터학부)](https://github.com/purang2/ArcadeGame_AdvWebProgramming)
      
-      * 프로젝트 주제: 고전 게임(Arcade) 웹페이지 프로젝트 
-      * 프로젝트 내용: 수업 시간에 배운 웹 페이지 Front-end(html,css,Javascript), Back-end(Database,MySQL,JSP Server-Login-out) 프로그래밍 기법들을 배웠고, 이를 통해 팀 프로젝트로 틀린그림찾기,같은그림찾기, 숨은그림찾기, 노노그램을 플레이 할 수 있는 고전게임 사이트를 만들어 보았다.
+     * 프로젝트 주제: 고전 게임(Arcade) 웹페이지 프로젝트 
+     * 프로젝트 내용: 수업 시간에 배운 웹 페이지 Front-end(html,css,Javascript), Back-end(Database,MySQL,JSP Server-Login-out) 프로그래밍 기법들을 배웠고, 이를 통해 팀 프로젝트로 틀린그림찾기,같은그림찾기, 숨은그림찾기, 노노그램을 플레이 할 수 있는 고전게임 사이트를 만들어 보았다.
       
