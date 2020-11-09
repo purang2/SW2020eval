@@ -5,11 +5,22 @@
 
 이 SUMMARY 파일은 [2020 전자공학부 소프트웨어 부전공 장학평가](https://github.com/knuee/sw2020/)를 심사받기 위해 제가 작업해왔던 프로젝트, 수업 등의 산출물을 접근하기 쉽도록 요약해놓은 PAGE입니다. 
 
+### SW부전공 관련과목 이수 사항
+
+- 
+
+- 
+
+---
+
 
 ---
 ## 형태별 추가 정보 기재:
 
 ### 교과목형
+
+- [COMP217 자바프로그래밍/ 2019 1학기/ 이경숙](https://github.com/purang2/Quizgame_Java)
+    * 프로젝트 주제: Java GUI 기반의 Quiz Game 프로젝트
 
 - [COMP312001 운영체제/ 2019년 겨울계절학기/ 배준현](https://github.com/purang2/OS_QuantumComputing) 
 
