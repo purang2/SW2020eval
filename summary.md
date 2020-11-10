@@ -76,8 +76,8 @@
      
 ### 자율과제형
 
-- [프로그래밍 대회에서 배우는 알고리즘 문제해결 전략 연구/독학]()
+- [프로그래밍 대회에서 배우는 알고리즘 문제해결 전략 독학 연구소](https://github.com/purang2/Algorithmic-Problem-Solving)
 
-- [머신러닝 연구소]()
+- [머신러닝 개인 연구소](https://github.com/purang2/James)
 
      
