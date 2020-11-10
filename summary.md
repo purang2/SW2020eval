@@ -76,6 +76,8 @@
      
 ### 자율과제형
 
+**(아래 저장소는 이름만 연구소일 뿐이며, 개인적으로 흥미있는 도서를 참고한 자율과제용 저장소입니다.)** 
+
 - [프로그래밍 대회에서 배우는 알고리즘 문제해결 전략 독학 연구소](https://github.com/purang2/Algorithmic-Problem-Solving)
 
 - [머신러닝 개인 연구소](https://github.com/purang2/James)
