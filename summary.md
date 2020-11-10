@@ -43,6 +43,14 @@
 - [COMP217 자바프로그래밍/ 2019 1학기/ 이경숙](https://github.com/purang2/Quizgame_Java)
     * 프로젝트 주제: Java GUI 기반의 Quiz Game 프로젝트
 
+
+
+- [COME331 자료구조/ COMP216 자료구조응용 / 2019년 1학기/ 김용태(컴퓨터학부)](https://github.com/purang2/Data-Structure)
+
+     * 수업과제 주제: C언어로 배우는 자료구조 응용 실습
+     
+     
+
 - [COMP312001 운영체제/ 2019년 겨울계절학기/ 배준현](https://github.com/purang2/OS_QuantumComputing) 
 
     * 프로젝트 주제: 양자 컴퓨팅을 이용한 소인수분해 알고리즘 프로젝트
@@ -63,12 +71,6 @@
 
      * 수업과제 주제: 리눅스 환경에서 라즈베리 파이 멀티스레드(4 cpu)를 이용한 빠른 행렬 곱셈
      * 수업과제 내용: 운영체제와 임베디드 시스템 프로그래밍 이론을 배운 것을 바탕으로 라즈베리파이의 CPU 4개를 동시에 돌리도록 하는 멀티스레딩 기법을 통한 병렬적 프로그래밍을 통해 싱글스레딩/멀티스레딩 , 컴퓨터/라즈베리파이의 행렬곱셈 성능(시간) 비교 등을 과제를 통해서 프로그래밍 함.
-     
-
-- [COME331 자료구조/ COMP216 자료구조응용 / 2019년 1학기/ 김용태(컴퓨터학부)](https://github.com/purang2/Data-Structure)
-
-     * 수업과제 주제: C언어로 배우는 자료구조 응용 실습
-     
      
 
 - [ELEC448001 시각심리 및 디스플레이공학/ 2020년 2학기/ 권혁주](https://github.com/purang2/ImageProcessing_Display)
