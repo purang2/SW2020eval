@@ -51,7 +51,7 @@
      
      
 
-- [COMP312001 운영체제/ 2019년 겨울계절학기/ 배준현](https://github.com/purang2/OS_QuantumComputing) 
+- [COMP312001 운영체제/ 2019년 겨울계절학기/ 배준현](https://github.com/purang2/SW2020eval/blob/main/subjects/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md) 
 
     * 프로젝트 주제: 양자 컴퓨팅을 이용한 소인수분해 알고리즘 프로젝트
     * 프로젝트 내용: 양자 역학의 얽힘(Entanglement)과 중첩(Superposition) 두가지 특징을 통해 기존 컴퓨터의 계산 패러다임을 깨부수기 위해 IBM에서 발표한 양자컴퓨팅 sw툴인 [Qiskit](https://qiskit.org/)을 이용해서 소인수분해를 양자 컴퓨팅의 패러다임에서 프로젝트를 통해 구현해 보고 현존하는 가장 뛰어난 성능의 양자컴퓨터 소인수분해 알고리즘인 Deutsch-Algorithm , Deutsch-Josza Algorithm, Grover's Algorithm, Shor's Algorithm을 구현과 함께 다뤄 보았다.    
